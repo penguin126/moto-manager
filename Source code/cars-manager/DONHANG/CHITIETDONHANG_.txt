@@ -1,0 +1,12 @@
+Ten san pham: HON
+Gia ban: 15,000 VND
+So luong: 3
+----------------------------
+Ten san pham: YAM
+Gia ban: 15,000 VND
+So luong: 10
+----------------------------
+Ten san pham: HON
+Gia ban: 15,000 VND
+So luong: 10
+----------------------------

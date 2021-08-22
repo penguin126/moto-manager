@@ -1,0 +1,5 @@
+		============>>DOANH THU, LOI NHUAN<<============
+
+- Tong doanh thu: 20 VND
+- Tong kinh phi bo ra ban dau: 0 VND
+- Tong loi nhuan: 20 VND

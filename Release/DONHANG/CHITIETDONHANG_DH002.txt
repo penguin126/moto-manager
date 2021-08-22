@@ -1,0 +1,14 @@
+		============>>CHI TIET DON HANG<<============
+Ma don hang: DH002
+Ngay tao don: 12/08/2021
+Ten khach hang: nta
+Dia chi: py
+So dien thoai: 123
+
+- San pham da mua
+----------------------------
+Ten san pham: SIRIUS
+Gia ban: 20 VND
+So luong: 2
+----------------------------
+TONG TIEN PHAI TRA: 80 VND

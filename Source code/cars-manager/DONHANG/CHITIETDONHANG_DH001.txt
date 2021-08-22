@@ -1,0 +1,18 @@
+		============>>CHI TIET DON HANG<<============
+Ma don hang: DH001
+Ngay tao don: 12/07/2021
+Ten khach hang: NTS
+Dia chi: 123
+So dien thoai: 123
+
+- San pham da mua
+----------------------------
+Ten san pham: HON
+Gia ban: 15,000 VND
+So luong: 5
+----------------------------
+Ten san pham: YAM
+Gia ban: 15,000 VND
+So luong: 10
+----------------------------
+TONG TIEN PHAI TRA: 225,000 VND

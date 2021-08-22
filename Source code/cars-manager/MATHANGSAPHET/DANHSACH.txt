@@ -1,0 +1,9 @@
+		============>>CAC MAT HANG SAP HET<<============
+
+Ten mat hang: HON
+So luong con lai: 7
+-------------------
+
+Ten mat hang: YAM
+So luong con lai: 7
+-------------------

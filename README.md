@@ -27,3 +27,5 @@
 <h3>Thống kê báo cáo</h3>
 - Định dạng thời gian (Tháng phải nằm trong khoảng 1, 12. Năm phải lớn hơn hoặc bằng 2021).</br>
 - Chức năng hiển thị doanh thu, lợi nhuận chỉ có khi dữ liệu đã được thêm trước đó.</br>
+<h1>Hình ảnh</h1>
+<img src="/Source/assets/car.PNG" alt="img"/>

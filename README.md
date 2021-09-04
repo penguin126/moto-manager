@@ -1,5 +1,5 @@
 <h1>Các chức năng đã làm được</h1>
-- Xem danh sách các hãng xe, thêm xóa sửa Tên hãng xe.
+- Xem danh sách các hãng xe, thêm xóa sửa Tên hãng xe.</br>
 - Xem danh sách các sản phẩm ứng với một hãng, thêm, xóa, sửa thông tin một xe máy.
 - Xem danh sách các đơn hàng trong tháng, xem chi tiết đơn hàng, cập nhập chi tiết đơn hàng, xóa đơn hàng.
 - Hiển thị danh sách các mặt hàng sắp hết (số lượng < 10).
